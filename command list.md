@@ -1,4 +1,6 @@
+---
 https://morvanzhou.github.io/static/results/git/2-1-1.png
+---
 
 set up personal name and email
 
