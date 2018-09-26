@@ -5,4 +5,4 @@ third comment
 
 in dev branch, merged to master
 
-new change in master
+new change in master and dev
