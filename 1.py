@@ -3,4 +3,4 @@ second comment
 third comment
 
 
-in dev branch
+in dev branch, merged to master
